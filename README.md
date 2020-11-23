@@ -6,7 +6,7 @@
 
 Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/jkuruzovich/r-conda/master?filepath=01-intro-r-overview.ipynb)
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r-conda/master?urlpath=rstudio)
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/jkuruzovich/r-conda/master?urlpath=rstudio)
 
 Binder supports using R and RStudio, with libraries pinned to a specific versions.
 
